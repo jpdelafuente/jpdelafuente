@@ -12,6 +12,8 @@ Habilidades blandas: Me destaco por mi adaptabilidad, lo que me permite enfrenta
 
 ¡Conéctate conmigo para explorar posibles colaboraciones o intercambiar ideas en el campo del desarrollo web Fullstack!
 
+jp.delafuente.va@hotmail.com
+
 ##EN 🇬🇧
 
 I'm Juan Pablo, an enthusiastic Fullstack Web Developer with experience in both Frontend and Backend. I specialize in HTML, CSS, JavaScript, React, and Redux, along with Express JS and Node JS. I'm an active participant in every project I engage with and am always on the lookout for opportunities to grow professionally and contribute to an excellent user experience.
@@ -23,6 +25,8 @@ My background in aeronautics and last-mile operations provides me with comprehen
 Soft skills: I'm characterized by my adaptability, which enables me to successfully face and overcome changes and challenges that arise in the work environment. My project management experience has equipped me with effective communication and leadership skills, along with a strong ability to solve problems, showcasing the capacity to remain calm and make effective decisions under pressure. Additionally, my focus on planning and organization allows me to carry out projects efficiently and meet established deadlines.
 
 Connect with me to explore potential collaborations or exchange ideas in the field of Fullstack Web development! 
+
+jp.delafuente.va@hotmail.com
 <!--
 **jpdelafuente/jpdelafuente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
