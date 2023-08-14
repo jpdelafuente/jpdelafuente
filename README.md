@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Juan Pablo!
 
 
-##ES 🇪🇸
+###ES 🇪🇸
 Soy Juan Pablo, un apasionado Desarrollador web Fullstack con experiencia en Frontend y Backend. Me especializo en HTML, CSS, JavaScript, React y Redux, Express JS y Node JS. Soy un participante activo en cada proyecto en el que me involucro y siempre estoy en busca de oportunidades para crecer profesionalmente y contribuir a una excelente experiencia de usuario.
 
 Soy una persona proactiva y de aprendizaje rápido, siempre enfocada en la experiencia del usuario y la funcionalidad en el desarrollo de aplicaciones web eficientes.
@@ -14,7 +14,7 @@ Habilidades blandas: Me destaco por mi adaptabilidad, lo que me permite enfrenta
 
 jp.delafuente.va@hotmail.com
 
-##EN 🇬🇧
+###EN 🇬🇧
 
 I'm Juan Pablo, an enthusiastic Fullstack Web Developer with experience in both Frontend and Backend. I specialize in HTML, CSS, JavaScript, React, and Redux, along with Express JS and Node JS. I'm an active participant in every project I engage with and am always on the lookout for opportunities to grow professionally and contribute to an excellent user experience.
 
